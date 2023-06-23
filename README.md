@@ -1,2 +1,2 @@
 ## MAchine Learning Projects
-![image](https://github.com/Chandan1307/DiamondPricePrediction2/assets/107146517/a64a81c8-0923-456f-91ea-88d3fd18fcc0)
+![Screenshot (54)](https://github.com/Chandan1307/DiamondPricePrediction2/assets/107146517/c7c9ebc9-42bc-4623-a03e-f80b4c54eefc)
